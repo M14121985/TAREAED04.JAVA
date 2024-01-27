@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/kaddu/OneDrive/Documentos/NetBeansProjects/tareaED4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kaddu/OneDrive/Documentos/NetBeansProjects/tareaED4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tareaED4 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'tareaED4 1.0-SNAPSHOT API'
+com.mycompany.tareaed4
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\src\main\java = 1706311629739
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\allclasses-index.html = 1706315285895
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\allpackages-index.html = 1706315285897
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\copy.svg = 1706315285925
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\element-list = 1706315285851
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\help-doc.html = 1706315285920
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\index-all.html = 1706315285912
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\index.html = 1706315285916
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\link.svg = 1706315285926
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\member-search-index.js = 1706315285901
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\module-search-index.js = 1706315285899
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\overview-tree.html = 1706315285884
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\package-search-index.js = 1706315285900
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\script.js = 1706315285924
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\search-page.js = 1706315285929
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\search.html = 1706315285915
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\search.js = 1706315285927
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\stylesheet.css = 1706315285922
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\tag-search-index.js = 1706315285902
+C:\Users\kaddu\OneDrive\Documentos\NetBeansProjects\tareaED4\target\site\apidocs\type-search-index.js = 1706315285901
